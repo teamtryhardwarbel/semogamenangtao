@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": "miner1",
+      "isAccepted": true, # untuk terima task atau tidak
+      "all": true,  # untuk terima semua task atau tidak
+      "acc_task" : [ # filter task yang mau di terima
+        "unsloth/SmolLM2-1.7B-Instruct",
+        "defog/sqlcoder-7b-2",
+        "NousResearch/Hermes-3-Llama-3.1-8B",
+        "Qwen/Qwen2-1.5B-Instruct",
+      ]
+    }
+  ]
+}
