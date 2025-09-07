@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task": [
-        "databricks/dolly-v2-3b"
+        "unsloth/Qwen2.5-1.5B-Instruct"
       ]
     }
   ]
