@@ -5,7 +5,7 @@
       "isAccepted": true, # untuk terima task atau tidak
       "all": false,  # untuk terima semua task atau tidak
       "acc_task" : [ # filter task yang mau di terima
-        "databricks/dolly-v2-3b",
+        "unsloth/Qwen2-0.5B-Instruct",
       ]
     }
   ]
