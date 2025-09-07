@@ -2,10 +2,18 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true, # untuk terima task atau tidak
-      "all": false,  # untuk terima semua task atau tidak
-      "acc_task" : [ # filter task yang mau di terima
-        "unsloth/Qwen2-0.5B-Instruct",
+      "isAccepted": true,
+      "all": false,
+      "acc_task": [
+        "unsloth/Qwen2-0.5B-Instruct"
+      ]
+    },
+    {
+      "id": "miner2",
+      "isAccepted": true,
+      "all": false,
+      "acc_task": [
+        "databricks/dolly-v2-3b"
       ]
     }
   ]
