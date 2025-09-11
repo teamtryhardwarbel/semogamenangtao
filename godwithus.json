@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "dunzhang/stella_en_1.5B_v5"
+        "unsloth/SmolLM-135M-Instruct"
       ]
     },
     {
