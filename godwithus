@@ -4,9 +4,32 @@
       "id": "miner1",
       "isAccepted": true,
       "all": false,
-      "acc_task": [
-        "Qwen/Qwen3-4B",
-        "dataautogpt3/ProteusSigma"
+      "acc_task" : [
+        "zenless-lab/sdxl-blue-pencil-xl-v7"
+      ]
+    },
+    {
+      "id": "miner2",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "dunzhang/stella_en_1.5B_v5"
+      ]
+    },
+    {
+      "id": "miner3",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "unsloth/Phi-3-mini-4k-instruct"
+      ]
+    },
+    {
+      "id": "miner4",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "unsloth/llama-3-8b-Instruct"
       ]
     }
   ]
