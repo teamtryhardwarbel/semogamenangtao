@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Phi-3.5-mini-instruct"
+        "zake7749/gemma-2-2b-it-chinese-kyara-dpo"
       ]
     },
     {
