@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-1.7B-Instruct"
+        "TinyLlama/TinyLlama-1.1B-Chat-v0.6"
       ]
     },
     {
