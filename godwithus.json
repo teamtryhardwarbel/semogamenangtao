@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama-1.1B-Chat-v0.6"
+        "oopsung/llama2-7b-n-ox-test-v1"
       ]
     },
     {
