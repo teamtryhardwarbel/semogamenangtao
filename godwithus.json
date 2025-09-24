@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-1.1-2b-it"
+        "codellama/CodeLlama-7b-hf"
       ]
     },
     {
