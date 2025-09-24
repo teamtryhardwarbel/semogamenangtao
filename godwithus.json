@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "oopsung/llama2-7b-n-ox-test-v1"
+        "microsoft/Phi-3-mini-128k-instruct"
       ]
     },
     {
