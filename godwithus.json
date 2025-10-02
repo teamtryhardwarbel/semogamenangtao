@@ -7,7 +7,7 @@
       "acc_task" : [
         "Qwen/Qwen2.5-1.5B",
         "unsloth/Qwen2.5-Math-1.5B",
-        "unsloth/Qwen2.5-Coder-1.5B-Instruct"
+        "Qwen/Qwen3-8B"
       ]
     },
     {
