@@ -6,7 +6,7 @@
       "all": false,
       "acc_task" : [
         "Qwen/Qwen2.5-1.5B",
-        "unsloth/Qwen2.5-Math-1.5B"
+        "unsloth/Qwen2.5-Math-1.5B" #win lawan jhon, always accept aja
       ]
     },
     {
