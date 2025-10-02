@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2.5-1.5B"
+        "Qwen/Qwen2.5-1.5B",
+        "unsloth/Qwen2.5-Math-1.5B"
       ]
     },
     {
