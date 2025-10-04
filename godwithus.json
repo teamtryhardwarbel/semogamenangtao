@@ -6,10 +6,6 @@
       "all": false,
       "acc_task" : [
         "Qwen/Qwen2.5-1.5B",
-        "unsloth/Qwen2.5-Math-1.5B",
-        "unsloth/SmolLM2-135M",
-        "zake7749/gemma-2-2b-it-chinese-kyara-dpo",
-        "numind/NuExtract-v1.5"
       ]
     },
     {
