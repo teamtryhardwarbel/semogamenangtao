@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "lmsys/vicuna-7b-v1.5"
+        "unsloth/gemma-2-2b-it"
       ]
     },
     {
