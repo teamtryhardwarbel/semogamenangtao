@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2.5-1.5B",
+        "unsloth/zephyr-sft",
       ]
     },
     {
