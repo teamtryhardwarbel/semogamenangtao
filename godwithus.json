@@ -17,7 +17,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "codellama/CodeLlama-7b-hf"
+        "unsloth/SmolLM-1.7B"
       ]
     },
     {
