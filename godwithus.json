@@ -17,7 +17,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM-1.7B"
+        "lmsys/vicuna-7b-v1.5"
       ]
     },
     {
