@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/zephyr-sft",
+        "unsloth/zephyr-sft"
       ]
     },
     {
