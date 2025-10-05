@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Meta-Llama-3.1-8B"
+        "unsloth/Meta-Llama-3.1-8B",
+        "unsloth/Llama-3.1-Storm-8B"
       ]
     },
     {
