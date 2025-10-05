@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-Math-1.5B"
+        "openlm-research/open_llama_3b"
       ]
     },
     {
