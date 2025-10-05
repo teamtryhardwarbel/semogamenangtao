@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-1.7B-Instruct"
+        "unsloth/SmolLM2-1.7B-Instruct",
+        "unsloth/Meta-Llama-3.1-8B"
       ]
     },
     {
