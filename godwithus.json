@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "openlm-research/open_llama_3b"
+        "unsloth/gemma-1.1-2b-it"
       ]
     },
     {
