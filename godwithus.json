@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "01-ai/Yi-1.5-9B-Chat-16K"
+        "lmsys/vicuna-7b-v1.5"
       ]
     },
     {
