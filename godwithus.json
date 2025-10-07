@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5"
+        "DeepMount00/Llama-3-8b-Ita"
       ]
     },
     {
