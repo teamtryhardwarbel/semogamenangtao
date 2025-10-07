@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Meta-Llama-3.1-8B"
+        "databricks/dolly-v2-3b"
       ]
     },
     {
