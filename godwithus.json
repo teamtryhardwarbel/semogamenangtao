@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "databricks/dolly-v2-3b"
+        "01-ai/Yi-1.5-9B-Chat-16K"
       ]
     },
     {
