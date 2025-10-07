@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "numind/NuExtract-v1.5"
+        "numind/NuExtract-v1.5",
+        "microsoft/phi-2"
       ]
     },
     {
