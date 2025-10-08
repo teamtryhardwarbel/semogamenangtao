@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/tinyllama"
+        "unsloth/Qwen2.5-0.5B"
       ]
     },
     {
