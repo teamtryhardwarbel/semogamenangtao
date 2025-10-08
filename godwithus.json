@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/codellama-7b",
-        "heegyu/WizardVicuna-open-llama-3b-v2"
+        "unsloth/codellama-7b"
       ]
     },
     {
