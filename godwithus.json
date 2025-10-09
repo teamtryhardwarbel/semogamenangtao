@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "heegyu/WizardVicuna-open-llama-3b-v2"
+        "bigscience/bloomz-560m"
       ]
     },
     {
