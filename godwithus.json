@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0"
+        "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0",
+        "aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct"
       ]
     },
     {
