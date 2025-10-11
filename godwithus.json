@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-14B",
-        "aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct"
+        "unsloth/Qwen2.5-14B"
       ]
     },
     {
