@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "unsloth/Meta-Llama-3.1-8B-Instruct",
-        "unsloth/tinyllama"
+        "unsloth/tinyllama",
+        "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
       ]
     },
     {
