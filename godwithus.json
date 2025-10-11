@@ -5,10 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Meta-Llama-3.1-8B-Instruct",
-        "unsloth/tinyllama",
-        "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
-        "UCLA-AGI/Gemma-2-9B-It-SPPO-Iter2"
+        "unsloth/Qwen2.5-14B",
+        "aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct"
       ]
     },
     {
