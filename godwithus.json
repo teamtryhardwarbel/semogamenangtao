@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama-1.1B-Chat-v0.6",
-        "tiiuae/falcon-7b"
+        "TinyLlama/TinyLlama-1.1B-Chat-v0.6"
       ]
     },
     {
