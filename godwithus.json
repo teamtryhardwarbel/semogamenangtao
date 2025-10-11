@@ -7,7 +7,8 @@
       "acc_task" : [
         "unsloth/Meta-Llama-3.1-8B-Instruct",
         "unsloth/tinyllama",
-        "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+        "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "UCLA-AGI/Gemma-2-9B-It-SPPO-Iter2"
       ]
     },
     {
