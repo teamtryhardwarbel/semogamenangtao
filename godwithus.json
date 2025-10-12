@@ -7,7 +7,8 @@
       "acc_task" : [
         "NousResearch/Hermes-3-Llama-3.1-8B",
         "JackFram/llama-160m",
-        "Qwen/Qwen2.5-7B-Instruct"
+        "Qwen/Qwen2.5-7B-Instruct",
+        "unsloth/SmolLM-1.7B-Instruct"
       ]
     },
     {
