@@ -6,7 +6,7 @@
       "all": false,
       "acc_task" : [
         "teknium/OpenHermes-2.5-Mistral-7B",
-        "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0"
+        "unsloth/Qwen2.5-1.5B"
       ]
     },
     {
