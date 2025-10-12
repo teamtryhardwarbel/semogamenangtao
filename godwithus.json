@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "teknium/OpenHermes-2.5-Mistral-7B"
+        "teknium/OpenHermes-2.5-Mistral-7B",
+        "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0"
       ]
     },
     {
