@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "jhflow/mistral7b-lora-multi-turn-v2"
+        "NousResearch/Hermes-3-Llama-3.1-8B"
       ]
     },
     {
