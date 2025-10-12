@@ -6,8 +6,7 @@
       "all": false,
       "acc_task" : [
         "unsloth/Llama-3.2-3B-Instruct",
-        "unsloth/Qwen2.5-1.5B",
-        "teknium/OpenHermes-2.5-Mistral-7B"
+        "unsloth/Qwen2.5-1.5B"
       ]
     },
     {
