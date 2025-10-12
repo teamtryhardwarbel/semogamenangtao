@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-3-Llama-3.1-8B",
+        "TinyLlama/TinyLlama-1.1B-Chat-v0.6",
         "JackFram/llama-160m",
         "Qwen/Qwen2.5-7B-Instruct",
         "unsloth/SmolLM-1.7B-Instruct",
