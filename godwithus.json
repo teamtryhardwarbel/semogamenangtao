@@ -10,7 +10,8 @@
         "Qwen/Qwen2.5-7B-Instruct",
         "unsloth/SmolLM-1.7B-Instruct",
         "microsoft/Phi-3-mini-4k-instruct",
-        "dltjdgh0928/test_instruction"
+        "dltjdgh0928/test_instruction",
+        "unsloth/Qwen2.5-1.5B-Instruct"
       ]
     },
     {
