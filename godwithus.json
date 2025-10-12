@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-3-Llama-3.1-8B"
+        "NousResearch/Hermes-3-Llama-3.1-8B",
+        "JackFram/llama-160m"
       ]
     },
     {
