@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2-0.5B"
+        "Qwen/Qwen2-0.5B",
+        "unsloth/gemma-2-2b-it"
       ]
     },
     {
