@@ -5,13 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama-1.1B-Chat-v0.6",
-        "JackFram/llama-160m",
-        "Qwen/Qwen2.5-7B-Instruct",
-        "unsloth/SmolLM-1.7B-Instruct",
-        "microsoft/Phi-3-mini-4k-instruct",
-        "unsloth/Qwen2-0.5B-Instruct",
-        "unsloth/Qwen2.5-1.5B-Instruct"
+        "unsloth/SmolLM2-1.7B-Instruct"
       ]
     },
     {
