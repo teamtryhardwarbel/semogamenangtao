@@ -7,8 +7,7 @@
       "acc_task" : [
         "unsloth/SmolLM2-1.7B-Instruct",
         "unsloth/Meta-Llama-3.1-8B-Instruct",
-        "NousResearch/Hermes-2-Pro-Llama-3-8B",
-        "jhflow/mistral7b-lora-multi-turn-v2"
+        "NousResearch/Hermes-2-Pro-Llama-3-8B"
       ]
     },
     {
