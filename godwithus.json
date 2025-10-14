@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "huggyllama/llama-7b",
+        "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B",
         "tiiuae/falcon-7b"
       ]
     },
