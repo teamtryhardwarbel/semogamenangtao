@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-7b-it",
-        "unsloth/gemma-2-2b-it"
+        "huggyllama/llama-7b"
       ]
     },
     {
