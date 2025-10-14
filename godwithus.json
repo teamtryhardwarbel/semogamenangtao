@@ -6,7 +6,7 @@
       "all": false,
       "acc_task" : [
         "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B",
-        "tiiuae/falcon-7b"
+        "bigscience/bloom-560m"
       ]
     },
     {
