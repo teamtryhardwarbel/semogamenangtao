@@ -6,7 +6,7 @@
       "all": false,
       "acc_task" : [
         "jingyeom/seal3.1.6n_7b",
-        "unsloth/gemma-2-2b"
+        "microsoft/Phi-3-mini-4k-instruct"
       ]
     },
     {
