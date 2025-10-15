@@ -5,7 +5,6 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/CodeLlama-7b-hf-flash",
         "unsloth/Qwen2.5-1.5B-Instruct"
       ]
     },
