@@ -5,8 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B",
-        "bigscience/bloom-560m"
+        "NousResearch/CodeLlama-7b-hf-flash",
+        "unsloth/Qwen2.5-1.5B-Instruct"
       ]
     },
     {
