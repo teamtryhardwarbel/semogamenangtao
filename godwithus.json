@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2.5-1.5B-Instruct"
+        "Qwen/Qwen2.5-1.5B-Instruct",
+        "berkeley-nest/Starling-LM-7B-alpha"
       ]
     },
     {
