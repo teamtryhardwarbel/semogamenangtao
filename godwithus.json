@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "UCLA-AGI/Gemma-2-9B-It-SPPO-Iter2"
+        "oopsung/llama2-7b-koNqa-test-v1"
       ]
     },
     {
