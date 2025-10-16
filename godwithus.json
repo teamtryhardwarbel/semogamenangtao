@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Yarn-Solar-10b-32k"
+        "UCLA-AGI/Gemma-2-9B-It-SPPO-Iter2"
       ]
     },
     {
