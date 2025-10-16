@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-1.7B"
+        "unsloth/SmolLM2-1.7B",
+        "microsoft/Phi-3-mini-4k-instruct"
       ]
     },
     {
