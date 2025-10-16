@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Eurdem/Defne_llama3_2x8B",
-        "NousResearch/Nous-Hermes-llama-2-7b"
+        "Qwen/Qwen2.5-1.5B-Instruct"
       ]
     },
     {
