@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "oopsung/llama2-7b-koNqa-test-v1"
+        "unsloth/OpenHermes-2.5-Mistral-7B"
       ]
     },
     {
